@@ -1,0 +1,7 @@
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_MilitaryElite\bin\Debug\Problem_MilitaryElite.exe.config
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_MilitaryElite\bin\Debug\Problem_MilitaryElite.exe
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_MilitaryElite\bin\Debug\Problem_MilitaryElite.pdb
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_MilitaryElite\obj\Debug\Problem_MilitaryElite.csprojResolveAssemblyReference.cache
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_MilitaryElite\obj\Debug\Problem_MilitaryElite.csproj.CoreCompileInputs.cache
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_MilitaryElite\obj\Debug\Problem_MilitaryElite.exe
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_MilitaryElite\obj\Debug\Problem_MilitaryElite.pdb

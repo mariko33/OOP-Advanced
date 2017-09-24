@@ -1,0 +1,7 @@
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_Ferrari\bin\Debug\Problem_Ferrari.exe.config
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_Ferrari\bin\Debug\Problem_Ferrari.exe
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_Ferrari\bin\Debug\Problem_Ferrari.pdb
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_Ferrari\obj\Debug\Problem_Ferrari.csprojResolveAssemblyReference.cache
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_Ferrari\obj\Debug\Problem_Ferrari.csproj.CoreCompileInputs.cache
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_Ferrari\obj\Debug\Problem_Ferrari.exe
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_Ferrari\obj\Debug\Problem_Ferrari.pdb

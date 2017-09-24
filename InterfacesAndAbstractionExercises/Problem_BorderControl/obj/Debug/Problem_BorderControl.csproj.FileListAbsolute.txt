@@ -1,0 +1,7 @@
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_BorderControl\bin\Debug\Problem_BorderControl.exe.config
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_BorderControl\bin\Debug\Problem_BorderControl.exe
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_BorderControl\bin\Debug\Problem_BorderControl.pdb
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_BorderControl\obj\Debug\Problem_BorderControl.csprojResolveAssemblyReference.cache
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_BorderControl\obj\Debug\Problem_BorderControl.csproj.CoreCompileInputs.cache
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_BorderControl\obj\Debug\Problem_BorderControl.exe
+D:\C#OOPAdvanced\InterfacesAndAbstractionExercises\Problem_BorderControl\obj\Debug\Problem_BorderControl.pdb
