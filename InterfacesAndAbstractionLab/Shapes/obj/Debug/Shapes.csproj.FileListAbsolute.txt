@@ -1,7 +1,0 @@
-D:\C#OOPAdvanced\InterfacesAndAbstractionLab\Shapes\bin\Debug\Shapes.exe.config
-D:\C#OOPAdvanced\InterfacesAndAbstractionLab\Shapes\bin\Debug\Shapes.exe
-D:\C#OOPAdvanced\InterfacesAndAbstractionLab\Shapes\bin\Debug\Shapes.pdb
-D:\C#OOPAdvanced\InterfacesAndAbstractionLab\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
-D:\C#OOPAdvanced\InterfacesAndAbstractionLab\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
-D:\C#OOPAdvanced\InterfacesAndAbstractionLab\Shapes\obj\Debug\Shapes.exe
-D:\C#OOPAdvanced\InterfacesAndAbstractionLab\Shapes\obj\Debug\Shapes.pdb
