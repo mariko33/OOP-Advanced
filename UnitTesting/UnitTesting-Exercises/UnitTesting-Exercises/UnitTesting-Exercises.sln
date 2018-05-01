@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDatabaseProject", "CustomDatabaseProject\CustomDatabaseProject.csproj", "{A240E24F-A28E-4081-96A0-A684B8D342B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDatabaseTests", "CustomDatabaseTests\CustomDatabaseTests.csproj", "{77DF0BF1-0D72-4C9B-A131-B68C167F5DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A240E24F-A28E-4081-96A0-A684B8D342B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A240E24F-A28E-4081-96A0-A684B8D342B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A240E24F-A28E-4081-96A0-A684B8D342B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A240E24F-A28E-4081-96A0-A684B8D342B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DF0BF1-0D72-4C9B-A131-B68C167F5DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF0BF1-0D72-4C9B-A131-B68C167F5DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF0BF1-0D72-4C9B-A131-B68C167F5DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF0BF1-0D72-4C9B-A131-B68C167F5DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07185BFC-0800-4E31-9D4D-76F64C17F951}
+	EndGlobalSection
+EndGlobal
