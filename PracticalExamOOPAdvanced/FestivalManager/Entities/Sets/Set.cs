@@ -47,15 +47,6 @@
 
 		public bool CanPerform()
 		{
-            //if (this.performers.Any() && this.songs.Any() &&
-            //    this.performers.All(p => p.Instruments.Any(i => i.IsBroken == false)))
-            //{
-            //    return true;
-            //}
-
-            //return false;
-
-
             if (!this.Performers.Any())
             {
                 return false;
